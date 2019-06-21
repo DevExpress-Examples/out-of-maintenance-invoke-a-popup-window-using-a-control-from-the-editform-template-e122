@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # Invoke a popup window using a control from the EditForm template
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e122/)**
+<!-- run online end -->
 
 
 <p>This demo shows you how to use web page space more efficiently by editing a particular field's values in a popup window.<br />
